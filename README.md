@@ -11,12 +11,14 @@ In this project, we will perform a descriptive analysis to show how well or poor
 We will measure customer engagement through a cohort analysis, try to calculate the earnings for the coming months and analyze the customers who will bring the most profit to the company.
 Additionally, we will learn the importance of cleaning and preprocessing data prior to conducting any analysis.
 
+
 Dataset has 6 columns:
 
-invoiceID: Unique Invoice number
-invoice_date: Date of purchase
-customerID: Unique Customer number
-country: Country of purchase
-quantity: Quantity of products purchased
+
+invoiceID: Unique Invoice number  
+invoice_date: Date of purchase  
+customerID: Unique Customer number   
+country: Country of purchase  
+quantity: Quantity of products purchased  
 amount: Total amount of products purchased
 
